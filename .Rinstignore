@@ -1,0 +1,2 @@
+final_project/.*/.*/
+.*/.*\.(Rnw|tex|log|gz|cls|bib|aux|Rhistory)$
